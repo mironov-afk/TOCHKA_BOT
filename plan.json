@@ -1,0 +1,23 @@
+[
+  {"channel": "prompt_tochka", "rubric": "🧰 Инструмент дня", "topic": "ИИ-помощник для резюме: какие сервисы сейчас реально работают и в чём их ограничения"},
+  {"channel": "prompt_tochka", "rubric": "⚙️ Кейс", "topic": "Протокол встречи за 2 минуты: как превратить запись или заметки в план действий"},
+  {"channel": "prompt_tochka", "rubric": "💬 Промпт недели", "topic": "Промпт для писем сложным клиентам"},
+  {"channel": "prompt_tochka", "rubric": "🧰 Инструмент дня", "topic": "Три лучших ИИ-инструмента недели для работы"},
+  {"channel": "prompt_tochka", "rubric": "🧰 Инструмент дня", "topic": "Сервис для автоматизации рутины без кода"},
+  {"channel": "prompt_tochka", "rubric": "💬 Промпт недели", "topic": "Промпт для анализа таблиц и отчётов"},
+  {"channel": "prompt_tochka", "rubric": "⚙️ Кейс", "topic": "Презентация из конспекта: пошагово"},
+  {"channel": "prompt_tochka", "rubric": "🧠 Разбор", "topic": "Как проверять ответы нейросети и ловить выдуманные факты"},
+  {"channel": "prompt_tochka", "rubric": "💬 Промпт недели", "topic": "Промпт для подготовки к переговорам"},
+  {"channel": "prompt_tochka", "rubric": "🧰 Инструмент дня", "topic": "Распознавание и перевод документов: что выбрать"},
+
+  {"channel": "tochkavhoda_code", "rubric": "🧠 Разбор", "topic": "Что такое Git и зачем он нужен новичку"},
+  {"channel": "tochkavhoda_code", "rubric": "⚙️ Мини-проект", "topic": "Телеграм-бот за вечер с помощью нейросети"},
+  {"channel": "tochkavhoda_code", "rubric": "💼 Карьера", "topic": "Как оформить GitHub, чтобы на него смотрели рекрутеры"},
+  {"channel": "tochkavhoda_code", "rubric": "🧠 Разбор", "topic": "Что такое переменные и типы данных"},
+  {"channel": "tochkavhoda_code", "rubric": "💬 Промпт", "topic": "Промпт: найти ошибку в коде и объяснить её"},
+  {"channel": "tochkavhoda_code", "rubric": "⚙️ Мини-проект", "topic": "Парсер цен на Python с подсказками нейросети"},
+  {"channel": "tochkavhoda_code", "rubric": "💼 Карьера", "topic": "Тестовое задание для джуна: как не завалить"},
+  {"channel": "tochkavhoda_code", "rubric": "🧠 Разбор", "topic": "Чем ИИ-код опасен и как его проверять"},
+  {"channel": "tochkavhoda_code", "rubric": "🧠 Разбор", "topic": "Как выбрать первый язык программирования"},
+  {"channel": "tochkavhoda_code", "rubric": "💼 Карьера", "topic": "Вакансии для джунов на этой неделе: что реально требуют"}
+]
